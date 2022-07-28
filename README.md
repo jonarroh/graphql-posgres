@@ -1,5 +1,11 @@
 # Proyecto de typescript + docker + graphql
 
+instalar dependencias
+
+```
+npm install
+```
+
 - para levantar el servidor de docker
 
 ```
